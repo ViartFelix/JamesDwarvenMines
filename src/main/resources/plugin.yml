@@ -1,0 +1,5 @@
+name: Fr.felixviart.jdm
+version: '${project.version}'
+main: dwarvenmines.fr.felixviart.jdm.Fr.felixviart.jdm
+api-version: 1.15
+depend: [Citizens]
